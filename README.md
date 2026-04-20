@@ -1,7 +1,6 @@
 # Hiya! 👋
 
-My name is Mickey, and I'm a Software Engineer (Rochester Institute of
-Technology Alumni 25')
+My name is Mickey, and I'm a Software Engineer (RIT 25').
 
 I have a strong passion for programming and love creating new things.
 
